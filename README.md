@@ -1,7 +1,6 @@
 # proiectSwiss
 Proiect Line Follower Robot and Obstacle Avoidance
 
-
 Prezentare PowerPoint proiect 
 https://www.dropbox.com/scl/fi/gejmfj56gr8tj17ht8gve/Proiect_LFR_OBS_IRremote_prezentare.pptx?rlkey=p3avochogiqpuwfz756nhj8l0&dl=0
 
